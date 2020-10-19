@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Models.RentalCar>
+
+@{
+    ViewData["Title"] = "Index";
+    
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(m => m.Nameclient)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Adhar)
+        </th>
+       
+
+        <th>
+            @Html.DisplayNameFor(m => m.Car.CartypeId)
+        </th>
+       
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(m => item.Nameclient)
+            </td>
+
+            <td>
+                @Html.DisplayFor(m => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.Adhar)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(m => item.Car.CartypeId)
+            </td>
+            
+        </tr>
+    }

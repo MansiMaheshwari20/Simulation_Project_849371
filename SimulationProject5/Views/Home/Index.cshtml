@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Models.Car>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of Items</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(m => m.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Speed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Engine)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(m => m.CarType.CarModel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Available)
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(m => item.Name)
+            </td>
+
+            <td>
+                @Html.DisplayFor(m => item.Color)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.Speed)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.Engine)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.CarType.CarModel)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.Available)
+            </td>
+        </tr>
+    }
+
+</table>

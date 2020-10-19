@@ -1,0 +1,273 @@
+INFO  12:27:14 Application started. Press Ctrl+C to shut down.
+INFO  12:27:14 Application started. Press Ctrl+C to shut down.
+INFO  12:27:14 Hosting environment: Development
+INFO  12:27:14 Hosting environment: Development
+INFO  12:27:14 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  12:27:14 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  12:27:44 Failed to determine the https port for redirect.
+WARN  12:27:44 Failed to determine the https port for redirect.
+INFO  12:28:44 Application started. Press Ctrl+C to shut down.
+INFO  12:28:44 Application started. Press Ctrl+C to shut down.
+INFO  12:28:44 Hosting environment: Development
+INFO  12:28:44 Hosting environment: Development
+INFO  12:28:44 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  12:28:44 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  12:29:11 Failed to determine the https port for redirect.
+WARN  12:29:11 Failed to determine the https port for redirect.
+INFO  12:42:17 Application started. Press Ctrl+C to shut down.
+INFO  12:42:17 Application started. Press Ctrl+C to shut down.
+INFO  12:42:17 Hosting environment: Development
+INFO  12:42:17 Hosting environment: Development
+INFO  12:42:17 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  12:42:17 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  12:42:45 Failed to determine the https port for redirect.
+WARN  12:42:45 Failed to determine the https port for redirect.
+INFO  12:44:09 Application started. Press Ctrl+C to shut down.
+INFO  12:44:09 Application started. Press Ctrl+C to shut down.
+INFO  12:44:09 Hosting environment: Development
+INFO  12:44:09 Hosting environment: Development
+INFO  12:44:09 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  12:44:09 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  12:44:38 Failed to determine the https port for redirect.
+WARN  12:44:38 Failed to determine the https port for redirect.
+INFO  12:54:02 Application started. Press Ctrl+C to shut down.
+INFO  12:54:02 Application started. Press Ctrl+C to shut down.
+INFO  12:54:02 Hosting environment: Development
+INFO  12:54:02 Hosting environment: Development
+INFO  12:54:02 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  12:54:02 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  12:54:29 Failed to determine the https port for redirect.
+WARN  12:54:29 Failed to determine the https port for redirect.
+INFO  01:01:41 Application started. Press Ctrl+C to shut down.
+INFO  01:01:41 Application started. Press Ctrl+C to shut down.
+INFO  01:01:41 Hosting environment: Development
+INFO  01:01:41 Hosting environment: Development
+INFO  01:01:41 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  01:01:41 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  01:02:08 Failed to determine the https port for redirect.
+WARN  01:02:08 Failed to determine the https port for redirect.
+INFO  01:05:45 Application started. Press Ctrl+C to shut down.
+INFO  01:05:45 Application started. Press Ctrl+C to shut down.
+INFO  01:05:45 Hosting environment: Development
+INFO  01:05:45 Hosting environment: Development
+INFO  01:05:45 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  01:05:45 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  01:06:12 Failed to determine the https port for redirect.
+WARN  01:06:12 Failed to determine the https port for redirect.
+INFO  01:06:13 Get Api Initiated
+INFO  06:42:55 Application started. Press Ctrl+C to shut down.
+INFO  06:42:55 Application started. Press Ctrl+C to shut down.
+INFO  06:42:56 Hosting environment: Development
+INFO  06:42:56 Hosting environment: Development
+INFO  06:42:56 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  06:42:56 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  06:43:31 Failed to determine the https port for redirect.
+WARN  06:43:31 Failed to determine the https port for redirect.
+INFO  06:43:31 Get Api Initiated
+INFO  08:32:09 Application started. Press Ctrl+C to shut down.
+INFO  08:32:09 Application started. Press Ctrl+C to shut down.
+INFO  08:32:09 Hosting environment: Development
+INFO  08:32:09 Hosting environment: Development
+INFO  08:32:09 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  08:32:09 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  08:32:33 Failed to determine the https port for redirect.
+WARN  08:32:33 Failed to determine the https port for redirect.
+INFO  08:32:33 Get Api Initiated
+INFO  10:57:17 Application started. Press Ctrl+C to shut down.
+INFO  10:57:17 Application started. Press Ctrl+C to shut down.
+INFO  10:57:17 Hosting environment: Development
+INFO  10:57:17 Hosting environment: Development
+INFO  10:57:17 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  10:57:17 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  10:57:46 Failed to determine the https port for redirect.
+WARN  10:57:46 Failed to determine the https port for redirect.
+ERROR 10:57:46 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AutApi.IAuthRepo' while attempting to activate 'AutApi.Controllers.AuthApiController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:57:46 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AutApi.IAuthRepo' while attempting to activate 'AutApi.Controllers.AuthApiController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:01:53 Application started. Press Ctrl+C to shut down.
+INFO  11:01:53 Application started. Press Ctrl+C to shut down.
+INFO  11:01:53 Hosting environment: Development
+INFO  11:01:53 Hosting environment: Development
+INFO  11:01:53 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  11:01:53 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  11:02:18 Failed to determine the https port for redirect.
+WARN  11:02:18 Failed to determine the https port for redirect.
+ERROR 11:02:19 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AutApi.IAuthRepo' while attempting to activate 'AutApi.Controllers.AuthApiController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:02:19 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AutApi.IAuthRepo' while attempting to activate 'AutApi.Controllers.AuthApiController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:03:51 Application started. Press Ctrl+C to shut down.
+INFO  11:03:51 Application started. Press Ctrl+C to shut down.
+INFO  11:03:51 Hosting environment: Development
+INFO  11:03:51 Hosting environment: Development
+INFO  11:03:51 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  11:03:51 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  11:04:15 Failed to determine the https port for redirect.
+WARN  11:04:15 Failed to determine the https port for redirect.
+INFO  11:04:15 Get Api Initiated
+INFO  11:48:37 Application started. Press Ctrl+C to shut down.
+INFO  11:48:37 Application started. Press Ctrl+C to shut down.
+INFO  11:48:37 Hosting environment: Development
+INFO  11:48:37 Hosting environment: Development
+INFO  11:48:37 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  11:48:37 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  11:49:00 Failed to determine the https port for redirect.
+WARN  11:49:00 Failed to determine the https port for redirect.
+INFO  11:49:00 Get Api Initiated
+INFO  11:53:33 Application started. Press Ctrl+C to shut down.
+INFO  11:53:33 Application started. Press Ctrl+C to shut down.
+INFO  11:53:33 Hosting environment: Development
+INFO  11:53:33 Hosting environment: Development
+INFO  11:53:33 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  11:53:33 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  11:53:58 Failed to determine the https port for redirect.
+WARN  11:53:58 Failed to determine the https port for redirect.
+INFO  11:53:59 Get Api Initiated
+INFO  12:01:56 Application started. Press Ctrl+C to shut down.
+INFO  12:01:56 Application started. Press Ctrl+C to shut down.
+INFO  12:01:56 Hosting environment: Development
+INFO  12:01:56 Hosting environment: Development
+INFO  12:01:56 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  12:01:56 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  12:02:21 Failed to determine the https port for redirect.
+WARN  12:02:21 Failed to determine the https port for redirect.
+INFO  12:02:22 Get Api Initiated
+INFO  12:57:16 Application started. Press Ctrl+C to shut down.
+INFO  12:57:16 Application started. Press Ctrl+C to shut down.
+INFO  12:57:16 Hosting environment: Development
+INFO  12:57:16 Hosting environment: Development
+INFO  12:57:16 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  12:57:16 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  12:57:42 Failed to determine the https port for redirect.
+WARN  12:57:42 Failed to determine the https port for redirect.
+INFO  12:57:42 Get Api Initiated
+INFO  12:58:59 Application started. Press Ctrl+C to shut down.
+INFO  12:58:59 Application started. Press Ctrl+C to shut down.
+INFO  12:58:59 Hosting environment: Development
+INFO  12:58:59 Hosting environment: Development
+INFO  12:58:59 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  12:58:59 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  12:59:23 Failed to determine the https port for redirect.
+WARN  12:59:23 Failed to determine the https port for redirect.
+INFO  12:59:24 Get Api Initiated
+INFO  12:59:50 Get Api Initiated
+INFO  03:29:16 Application started. Press Ctrl+C to shut down.
+INFO  03:29:16 Application started. Press Ctrl+C to shut down.
+INFO  03:29:16 Hosting environment: Development
+INFO  03:29:16 Hosting environment: Development
+INFO  03:29:16 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  03:29:16 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  03:43:28 Application started. Press Ctrl+C to shut down.
+INFO  03:43:28 Application started. Press Ctrl+C to shut down.
+INFO  03:43:28 Hosting environment: Development
+INFO  03:43:28 Hosting environment: Development
+INFO  03:43:28 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  03:43:28 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  03:43:53 Failed to determine the https port for redirect.
+WARN  03:43:53 Failed to determine the https port for redirect.
+INFO  03:45:55 Application started. Press Ctrl+C to shut down.
+INFO  03:45:55 Application started. Press Ctrl+C to shut down.
+INFO  03:45:55 Hosting environment: Development
+INFO  03:45:55 Hosting environment: Development
+INFO  03:45:55 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  03:45:55 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  03:46:19 Failed to determine the https port for redirect.
+WARN  03:46:19 Failed to determine the https port for redirect.
+INFO  03:46:20 Get Api Initiated
+INFO  03:54:27 Application started. Press Ctrl+C to shut down.
+INFO  03:54:27 Application started. Press Ctrl+C to shut down.
+INFO  03:54:28 Hosting environment: Development
+INFO  03:54:28 Hosting environment: Development
+INFO  03:54:28 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  03:54:28 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  03:54:58 Failed to determine the https port for redirect.
+WARN  03:54:58 Failed to determine the https port for redirect.
+INFO  03:54:59 Get Api Initiated
+INFO  03:56:30 Application started. Press Ctrl+C to shut down.
+INFO  03:56:30 Application started. Press Ctrl+C to shut down.
+INFO  03:56:30 Hosting environment: Development
+INFO  03:56:30 Hosting environment: Development
+INFO  03:56:30 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  03:56:30 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  03:56:45 Failed to determine the https port for redirect.
+WARN  03:56:45 Failed to determine the https port for redirect.
+INFO  03:56:46 Get Api Initiated
+INFO  03:59:45 Application started. Press Ctrl+C to shut down.
+INFO  03:59:45 Application started. Press Ctrl+C to shut down.
+INFO  03:59:45 Hosting environment: Development
+INFO  03:59:45 Hosting environment: Development
+INFO  03:59:45 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  03:59:45 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  04:00:11 Failed to determine the https port for redirect.
+WARN  04:00:11 Failed to determine the https port for redirect.
+INFO  04:00:12 Get Api Initiated
+INFO  04:35:08 Application started. Press Ctrl+C to shut down.
+INFO  04:35:08 Application started. Press Ctrl+C to shut down.
+INFO  04:35:08 Hosting environment: Development
+INFO  04:35:08 Hosting environment: Development
+INFO  04:35:08 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+INFO  04:35:08 Content root path: C:\Users\mansi\source\repos\SimulationProject5\AutApi
+WARN  04:36:02 Failed to determine the https port for redirect.
+WARN  04:36:02 Failed to determine the https port for redirect.
+INFO  04:36:02 Get Api Initiated
